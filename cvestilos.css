@@ -1,0 +1,28 @@
+#footer
+{
+	height: 15%;
+	background: azure;
+}
+#contacto
+{
+	list-style: inline;
+	text-align: center;
+}
+
+#cont
+{
+	display: inline-block;
+	padding: 20px;
+}
+#imagen
+{
+	height: 30%;
+	width: 100%;
+	background: royalblue;
+}
+#imatab
+{
+	height: 100%;
+	width: 35%;
+	float: left;
+}
